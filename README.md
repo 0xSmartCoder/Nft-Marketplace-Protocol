@@ -7,7 +7,7 @@ It supports listings, direct purchases, offers system, escrow-based settlement, 
 
 ## 🚀 Features
 
-### 🖼 NFT Marketplace Core
+### NFT Marketplace Core
 
 * NFT Listing & Delisting
 * Direct Buy functionality
